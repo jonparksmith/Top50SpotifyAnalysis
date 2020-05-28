@@ -1,5 +1,7 @@
 # Top50SpotifyAnalysis
 
+Here is a NBviewer link: https://nbviewer.jupyter.org/github/jonparksmith/Top50SpotifyAnalysis/blob/master/Spotify%202019%20Top%2050%20Songs%20Analysis.ipynb
+
 "Top 50 Spotify Songs - 2019" is a CSV database from Kaggle. It contains several variables :
 
 * Track.Name : Name of the Track
